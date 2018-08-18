@@ -1,0 +1,6 @@
+ident ::= let
+ident ::= ident  let
+ident ::= ident digit
+let ::= a
+digit ::= 0
+digit ::= 1
