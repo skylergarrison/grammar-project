@@ -1,0 +1,6 @@
+Quick commands for testing code (-l = legal length of terminals):
+
+-l3 Ambig.txt
+-l3 Binary.txt
+-l3 ident.grm
+-l3 multiCharAssign.txt
